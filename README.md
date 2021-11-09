@@ -3,9 +3,9 @@
 ## Anggota
 |  | Nama                   | Role              |
 |--|------------------------|-------------------|
-|1.|Ainun Fadhila Az Zahida |                   |
-|2.|Fatimah Alfiatul Jannah |                   |
-|3.|Siti Magfiroh           |                   |
+|1.|Ainun Fadhila Az Zahida | Game Designer     |
+|2.|Fatimah Alfiatul Jannah | Game Programmer   |
+|3.|Siti Magfiroh           | Game Artist       |
 
 
 ## Story
