@@ -1,11 +1,11 @@
 # Animal Rescue Dash
 
 ## Anggota
-|  | Nama                   | Role              |
-|--|------------------------|-------------------|
-|1.|Ainun Fadhila Az Zahida | Game Designer     |
-|2.|Fatimah Alfiatul Jannah | Game Programmer   |
-|3.|Siti Magfiroh           | Game Artist       |
+|  | Nama                   | NIM               | Role              |
+|--|------------------------|-------------------|-------------------|
+|1.|Ainun Fadhila Az Zahida | G64190002         |Game Designer      |
+|2.|Fatimah Alfiatul Jannah | G64190014         |Game Programmer    |
+|3.|Siti Magfiroh           | G64190042         |Game Artist        |
 
 
 ## Story
@@ -22,7 +22,7 @@ Berhasil melewati beberapa rintangan guna melindungi hewan-hewan langka dari ora
    - Silver
    - Bronze
    - None
-5. Jika Agent jatuh ke jurang atau kena ranjau maka game over
+5. Jika Agent jatuh ke jurang atau terkena ranjau maka game over
 
 ## Asset
 
