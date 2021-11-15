@@ -14,6 +14,15 @@
 Berhasil melewati beberapa rintangan guna melindungi hewan-hewan langka dari orang tidak bertanggung jawab yang ingin memperjual belikan hewan tersebut.
 
 ## Rules
+1. Terdiri dari beberapa level, setiap level Agent harus berhasil menyelamatkan hewan 
+2. Mendapatkan score setinggi-tinggi nya dengan mengambil koin yang ada
+3. Melewati rintangan sampai garis finish
+4. Jika berhasil menyelesaikan game dalam waktu tertentu maka Agent akan mendapatkan reward berupa medal sesuai waktu yang dicapai
+   - Gold
+   - Silver
+   - Bronze
+   - None
+5. Jika Agent jatuh ke jurang atau kena ranjau maka game over
 
 ## Asset
 
