@@ -36,3 +36,10 @@ Berhasil melewati beberapa rintangan guna melindungi hewan-hewan langka dari ora
 |Project Documents |                               |
 
 ## Tampilan Game
+1. Home page yang berisi button play, options, credits, dan quit
+![start](https://user-images.githubusercontent.com/78837297/145811722-7ed1d4aa-ac2e-4687-bed8-9f908b0ccd34.JPG)
+2. Memilih level yang ingin dimainkan pada game
+![select level](https://user-images.githubusercontent.com/78837297/145811863-40c6384f-3989-495d-b2a9-20e44137bda0.JPG)
+3. Level satu pada game 
+![level 1](https://user-images.githubusercontent.com/78837297/145811934-1ea2ba82-a299-4330-9f9f-e382ef2af69c.JPG)
+
