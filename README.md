@@ -26,8 +26,6 @@ Berhasil melewati beberapa rintangan guna melindungi hewan-hewan langka dari ora
 2. Sprite : Cainos, Bayat Games, Fantasy Wooden GUI : Free, Free Ui Pack
 3. Sound : Casual Game Sounds, Casual Game BGM #05, Footstep - Essentials, Sparrow Sounds
 
-## Build
-
 ## Informasi Proyek
 |Informasi         |URL                               |
 |------------------|----------------------------------|
