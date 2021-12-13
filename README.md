@@ -29,11 +29,12 @@ Berhasil melewati beberapa rintangan guna melindungi hewan-hewan langka dari ora
 ## Build
 
 ## Informasi Proyek
-|Informasi         |URL                            |
-|------------------|-------------------------------|
-|Github            |https://github.com/ftmhalf/ARD |
-|Video Demo        |                               |
-|Project Documents |                               |
+|Informasi         |URL                               |
+|------------------|----------------------------------|
+|Github            |https://github.com/ftmhalf/ARD    |
+|Video Demo        |https://ipb.university/video-demo |
+|Project Documents |https://ipb.university/laporan    |
+|Figma             |https://ipb.university/figma      |
 
 ## Tampilan Game
 1. Home page yang berisi button play, options, credits, dan quit
