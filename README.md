@@ -29,6 +29,7 @@ Berhasil melewati beberapa rintangan guna melindungi hewan-hewan langka dari ora
 ## Build
 
 ## Informasi Proyek
+|Informasi         |URL                            |
 |------------------|-------------------------------|
 |Github            |https://github.com/ftmhalf/ARD |
 |Video Demo        |                               |
