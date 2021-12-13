@@ -42,4 +42,13 @@ Berhasil melewati beberapa rintangan guna melindungi hewan-hewan langka dari ora
 ![select level](https://user-images.githubusercontent.com/78837297/145811863-40c6384f-3989-495d-b2a9-20e44137bda0.JPG)
 3. Level satu pada game 
 ![level 1](https://user-images.githubusercontent.com/78837297/145811934-1ea2ba82-a299-4330-9f9f-e382ef2af69c.JPG)
+4. Pada saat menginjak ranjau nyawa pada game akan berkurang
+![injak ranjau](https://user-images.githubusercontent.com/78837297/145812823-dd021958-f338-498b-a244-14b4180bc407.JPG)
+5. Jika Agent jatuh ke jurang atau kehabisan nyawa maka game over
+![game over](https://user-images.githubusercontent.com/78837297/145812978-54cf1e3b-117b-4bf8-8575-e2ae7087589c.JPG)
+6. Jika Agent berhasil untuk menyelesaikan misi menyelamatkan hewan di level tersebut maka akan menang
+![winn](https://user-images.githubusercontent.com/78837297/145813924-b898a390-f50d-45b6-ab30-a8d96cc17d03.JPG)
+
+
+
 
